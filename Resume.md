@@ -63,6 +63,14 @@ Seagate Technology
 
 ------
 
+### Education {#education}
+
+Bachelor of Science in Computer Engineering
+: *University of Wyoming*
+  __2007-2012__
+
+------
+
 ### Footer {#footer}
 
 Matthew Tanous -- [mtanous22@gmail.com](mtanous22@gmail.com) -- (805) 588-9385
